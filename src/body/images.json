@@ -1,0 +1,27 @@
+[
+    {
+      "id": "1",
+      "title": "Örnek 1",
+      "image": "images/davetiyeler/d1.jpg",
+      "description": "Zamansız davetiye isteyenler için kaçırılmayacak fırsat"
+    },
+    {
+      "id": "2",
+      "title": "Örnek 2",
+      "image": "images/davetiyeler/d2.jpg",
+      "description": "En çok tercih edilen modelimiz. Sadelik ve şıklık sevenler için ..."
+    },
+    {
+      "id": "3",
+      "title": "Örnek 3",
+      "image": "images/davetiyeler/d3.jpg",
+      "description": " Geçmişe gitmek isteyenler için önerimiz "
+    },
+    {
+      "id": "4",
+      "title": "Örnek 4",
+      "image": "images/davetiyeler/d4.jpg",
+      "description": " Klasikleşmiş modelimiz"
+    }
+  ]
+  
