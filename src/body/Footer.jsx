@@ -2,6 +2,7 @@ import './body.css';
 import { CiFacebook } from "react-icons/ci";
 import { CiInstagram } from "react-icons/ci";
 import { RiTwitterXLine } from "react-icons/ri";
+import { Link } from 'react-router-dom';
 function Footer(){
     return(
         <>
@@ -11,10 +12,10 @@ function Footer(){
       <div className="col-6 col-md-2 mb-3">
         <h5>KURUMSAL</h5>
         <ul className="nav flex-column">
-          <li className="nav-item mb-2"><a href="#" className="nav-link p-0 text-body-secondary">Anasayfa</a></li>
-          <li className="nav-item mb-2"><a href="#" className="nav-link p-0 text-body-secondary">Hakkımızda</a></li>
-          <li className="nav-item mb-2"><a href="#" className="nav-link p-0 text-body-secondary">İletişim</a></li>
-          <li className="nav-item mb-2"><a href="#" className="nav-link p-0 text-body-secondary">S.S.S</a></li>
+          <Link to="/" className="nav-item mb-2 p-0 text-body-secondary no-underline">Anasayfa</Link>
+          <Link to="About" className="nav-item mb-2 p-0 text-body-secondary no-underline">Hakkımızda</Link>
+          <Link to="/Content" className="nav-item mb-2 p-0 text-body-secondary no-underline">İletişim</Link>
+          <Link to="/SSS" className="nav-item mb-2 p-0 text-body-secondary no-underline">S.S.S </Link>
 
         </ul>
       </div>

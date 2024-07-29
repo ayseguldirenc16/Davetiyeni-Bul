@@ -1,4 +1,5 @@
 import './body.css';
+import { Link } from 'react-router-dom';
 
 function Head() {
     return (
@@ -8,10 +9,10 @@ function Head() {
                     <img src="images/logo.jpg" alt="" className='navbar-img' />
                     <div className="navbar-text">
                         <div className="links">
-                            <a href="#">Anasayfa</a>
-                            <a href="#">Hakkımızda</a>
-                            <a href="#">Kampanyalar</a>
-                            <a href="#">İletişim</a>
+                            <Link to="/">Anasayfa</Link>
+                            <Link to="/About">Hakkımızda</Link>
+                            <Link to="/Campaigns">Ürünlerimiz</Link>
+                            <Link to="/Content">İletişim</Link>
                         </div>
                         <div className="dropdown">
                             <button className="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
