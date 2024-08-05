@@ -12,7 +12,15 @@ import Content from './body/pages/Content';
 import InvitationFonts from './body/pages/InvitationFonts';
 import InvitationWords from './body/pages/InvitationWords';
 
+import OrderTracking from './body/pages/OrderTracking';
+import Login from './body/pages/Login';
+import Uyelik from './body/pages/Uyelik';
+// import { useEffect } from 'react';
+
 function App() {
+//   useEffect(() => {
+//     alert("Sayfamıza hoş geldiniz!");
+// }, []);
   return (
     <>
       <BrowserRouter>
@@ -31,6 +39,10 @@ function App() {
           <Route path="/SSS" element={<SSS />} />
           <Route path="/invitationFonts" element={<InvitationFonts />} />
           <Route path="/invitationWords" element={<InvitationWords />} />
+          <Route path="/OrderTracking" element={<OrderTracking/>} />
+          <Route path="/Login" element={<Login/>} />
+          <Route path="/Uyelik" element={<Uyelik/>} />
+        
         </Routes>
         <Footer />
       </BrowserRouter>

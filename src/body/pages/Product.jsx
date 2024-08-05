@@ -25,7 +25,6 @@ function Product() {
                         </ul>
                     </div>
                     <div className="product-links d-flex align-items-center">
-                        <Link to="/invitationFonts" className="no-underline mr-6 text-black">Davetiye Fontları</Link>
                         <Link to="/invitationWords" className="no-underline mr-6 text-black">Davetiye Sözleri</Link>
                     </div>
                 </div>

@@ -1,0 +1,157 @@
+[
+    {
+        "id" : "1",
+        "title":"Beyaz Ekonomik  Davetiye",
+        "type":"Ekonomik",
+        "price":"4,00",
+        "img":"images/davetiyeler/eko1.jpg"
+    },
+    {
+        "id" : "2",
+        "title":"Özelleştirilmiş Ekonomik  Davetiye",
+        "type":"Ekonomik",
+        "price":"5,20",
+        "img":"images/davetiyeler/eko2.jpg"
+    },
+    {
+        "id" : "3",
+        "title":"Renkli Ekonomik  Davetiye",
+        "type":"Ekonomik",
+        "price":"3,50",
+        "img":"images/davetiyeler/eko3.jpg"
+    },
+    {
+        "id" : "4",
+        "title":"Resimli Klasik  Davetiye",
+        "type":"Klasik",
+        "price":"2,50",
+        "img":"images/davetiyeler/klasik1.jpg"
+    },
+    {
+        "id" : "5",
+        "title":"Sade Klasik  Davetiye",
+        "type":"Klasik",
+        "price":"3,00",
+        "img":"images/davetiyeler/klasik2.jpg"
+    },
+    {
+        "id" : "6",
+        "title":"Gold Klasik  Davetiye",
+        "type":"Klasik",
+        "price":"1,90",
+        "img":"images/davetiyeler/klasik3.jpg"
+    },
+    {
+        "id" : "7",
+        "title":"Mühürlü  Davetiye",
+        "type":"Mühürlü",
+        "price":"5,90",
+        "img":"images/davetiyeler/muhur1.jpg"
+    },
+    {
+        "id" : "8",
+        "title":"Mühürlü Zarfsız Davetiye",
+        "type":"Mühürlü",
+        "price":"3,60",
+        "img":"images/davetiyeler/muhur2.jpg"
+    },
+    {
+        "id" : "9",
+        "title":"Mühürlü Zarflı Davetiye",
+        "type":"Mühürlü",
+        "price":"6,00",
+        "img":"images/davetiyeler/muhur3.jpg"
+    },
+    {
+        "id" : "10",
+        "title":"Mühürlü Sade Davetiye",
+        "type":"Mühürlü",
+        "price":"4,00",
+        "img":"images/davetiyeler/muhur4.jpg"
+    },
+    {
+        "id" : "11",
+        "title":"Mühürlü İpli Davetiye",
+        "type":"Mühürlü",
+        "price":"4,20",
+        "img":"images/davetiyeler/muhur5.jpg"
+    },
+    {
+        "id" : "12",
+        "title":"Özel Kişisellirilecek Davetiye",
+        "type":"Özel",
+        "price":"11,00",
+        "img":"images/davetiyeler/ozel1.jpg"
+    },
+    {
+        "id" : "13",
+        "title":"Özel Kişisellirilecek Davetiye",
+        "type":"Özel",
+        "price":"9,00",
+        "img":"images/davetiyeler/ozel2.jpg"
+    },
+    {
+        "id" : "14",
+        "title":"Şeffaf  Davetiye",
+        "type":"Şeffaf",
+        "price":"14,00",
+        "img":"images/davetiyeler/seffaf1.jpg"
+    },
+    {
+        "id" : "15",
+        "title":"Şeffaf Mühürlü Davetiye",
+        "type":"Şeffaf",
+        "price":"18,00",
+        "img":"images/davetiyeler/seffaf2.jpg"
+    },{
+        "id" : "16",
+        "title":"Şeffaf Zarflı Davetiye",
+        "type":"Şeffaf",
+        "price":"19,00",
+        "img":"images/davetiyeler/seffaf3.jpg"
+    },
+    {
+        "id" : "17",
+        "title":"Şeffaf  Davetiye",
+        "type":"Şeffaf",
+        "price":"14,00",
+        "img":"images/davetiyeler/seffaf4.jpg"
+    },
+    {
+        "id" : "18",
+        "title":"Şeffaf  Davetiye",
+        "type":"Şeffaf",
+        "price":"14,00",
+        "img":"images/davetiyeler/seffaf5.jpg"
+    },
+    {
+        "id" : "19",
+        "title":"Şeffaf Resimli  Davetiye",
+        "type":"Şeffaf",
+        "price":"22,00",
+        "img":"images/davetiyeler/seffaf6.jpg"
+    },
+    {
+        "id" : "20",
+        "title":"Vintage  Davetiye",
+        "type":"Vintage",
+        "price":"24,00",
+        "img":"images/davetiyeler/vintage1.jpg"
+    },
+    {
+        "id" : "21",
+        "title":"Vintage  Davetiye",
+        "type":"Vintage",
+        "price":"29,00",
+        "img":"images/davetiyeler/vintage2.jpg"
+    },
+    {
+        "id" : "22",
+        "title":"Vintage  Davetiye",
+        "type":"Vintage",
+        "price":"28,00",
+        "img":"images/davetiyeler/vintage3.jpg"
+    }
+
+
+]
