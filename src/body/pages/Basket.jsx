@@ -1,9 +1,9 @@
 import { useLocation } from 'react-router-dom';
-import '../body.css';  // Kart yapısına stil eklemek için CSS dosyası
+import '../body.css';  
 
 function Basket() {
   const location = useLocation();
-  const cartItems = location.state?.cartItems || [];  // Sepete eklenen ürünleri al
+  const cartItems = location.state?.cartItems || [];  
 
   return (
     <div className="basket-container">
