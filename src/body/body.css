@@ -503,3 +503,50 @@ body {
 .text p{
     margin: 0;
 }
+.basket-container {
+    padding: 20px;
+  }
+  
+  .basket-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 20px;
+  }
+  
+  .basket-card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background: #fff;
+    display: flex;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .basket-card-img {
+    width: 80%;
+    height: 250px;
+    object-fit: cover;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+
+  }
+  
+  .basket-card-body {
+    padding: 10px;
+  }
+  
+  .basket-card-title {
+    font-size: 16px;
+    margin: 0;
+  }
+  
+  .basket-card-price {
+    font-size: 14px;
+    color: #555;
+  }
+  

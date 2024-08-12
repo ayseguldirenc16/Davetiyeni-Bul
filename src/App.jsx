@@ -15,6 +15,7 @@ import InvitationWords from './body/pages/InvitationWords';
 import OrderTracking from './body/pages/OrderTracking';
 import Login from './body/pages/Login';
 import Uyelik from './body/pages/Uyelik';
+import Basket from './body/pages/Basket';
 // import { useEffect } from 'react';
 
 function App() {
@@ -42,6 +43,7 @@ function App() {
           <Route path="/OrderTracking" element={<OrderTracking/>} />
           <Route path="/Login" element={<Login/>} />
           <Route path="/Uyelik" element={<Uyelik/>} />
+          <Route path="/Basket" element={<Basket/>} />
         
         </Routes>
         <Footer />
